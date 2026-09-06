@@ -2,8 +2,8 @@
 Objective: The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
 
 
-## NAME: Nithilan S
-## REGISTER NUMBER: 212223240108
+## NAME: Robinson R 
+## REGISTER NUMBER: 212224060218
 
 
 # Aim:
